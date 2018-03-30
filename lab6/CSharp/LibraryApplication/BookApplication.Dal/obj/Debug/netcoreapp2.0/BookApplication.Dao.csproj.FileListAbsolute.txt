@@ -1,0 +1,35 @@
+c:\users\medeea.constantinesc\documents\visual studio 2017\Projects\BookApplication\BookApplication.Dal\bin\Debug\netcoreapp2.0\BookApplication.Dao.deps.json
+c:\users\medeea.constantinesc\documents\visual studio 2017\Projects\BookApplication\BookApplication.Dal\bin\Debug\netcoreapp2.0\BookApplication.Dao.runtimeconfig.json
+c:\users\medeea.constantinesc\documents\visual studio 2017\Projects\BookApplication\BookApplication.Dal\bin\Debug\netcoreapp2.0\BookApplication.Dao.runtimeconfig.dev.json
+c:\users\medeea.constantinesc\documents\visual studio 2017\Projects\BookApplication\BookApplication.Dal\bin\Debug\netcoreapp2.0\BookApplication.Dao.dll
+c:\users\medeea.constantinesc\documents\visual studio 2017\Projects\BookApplication\BookApplication.Dal\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Hosting.dll
+c:\users\medeea.constantinesc\documents\visual studio 2017\Projects\BookApplication\BookApplication.Dal\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Hosting.xml
+c:\users\medeea.constantinesc\documents\visual studio 2017\Projects\BookApplication\BookApplication.Dal\obj\Debug\netcoreapp2.0\BookApplication.Dao.csprojResolveAssemblyReference.cache
+c:\users\medeea.constantinesc\documents\visual studio 2017\Projects\BookApplication\BookApplication.Dal\obj\Debug\netcoreapp2.0\BookApplication.Dao.csproj.CoreCompileInputs.cache
+c:\users\medeea.constantinesc\documents\visual studio 2017\Projects\BookApplication\BookApplication.Dal\obj\Debug\netcoreapp2.0\BookApplication.Dao.AssemblyInfoInputs.cache
+c:\users\medeea.constantinesc\documents\visual studio 2017\Projects\BookApplication\BookApplication.Dal\obj\Debug\netcoreapp2.0\BookApplication.Dao.AssemblyInfo.cs
+c:\users\medeea.constantinesc\documents\visual studio 2017\Projects\BookApplication\BookApplication.Dal\bin\Debug\netcoreapp2.0\BookApplication.Dao.pdb
+c:\users\medeea.constantinesc\documents\visual studio 2017\Projects\BookApplication\BookApplication.Dal\obj\Debug\netcoreapp2.0\BookApplication.Dao.dll
+c:\users\medeea.constantinesc\documents\visual studio 2017\Projects\BookApplication\BookApplication.Dal\obj\Debug\netcoreapp2.0\BookApplication.Dao.pdb
+C:\Users\medee\Desktop\SCHOOL\YEAR 3\SEM 2\SD\LAB\LibraryApplication\BookApplication.Dal\bin\Debug\netcoreapp2.0\BookApplication.Dao.deps.json
+C:\Users\medee\Desktop\SCHOOL\YEAR 3\SEM 2\SD\LAB\LibraryApplication\BookApplication.Dal\bin\Debug\netcoreapp2.0\BookApplication.Dao.runtimeconfig.json
+C:\Users\medee\Desktop\SCHOOL\YEAR 3\SEM 2\SD\LAB\LibraryApplication\BookApplication.Dal\bin\Debug\netcoreapp2.0\BookApplication.Dao.runtimeconfig.dev.json
+C:\Users\medee\Desktop\SCHOOL\YEAR 3\SEM 2\SD\LAB\LibraryApplication\BookApplication.Dal\bin\Debug\netcoreapp2.0\BookApplication.Dao.dll
+C:\Users\medee\Desktop\SCHOOL\YEAR 3\SEM 2\SD\LAB\LibraryApplication\BookApplication.Dal\bin\Debug\netcoreapp2.0\BookApplication.Dao.pdb
+C:\Users\medee\Desktop\SCHOOL\YEAR 3\SEM 2\SD\LAB\LibraryApplication\BookApplication.Dal\obj\Debug\netcoreapp2.0\BookApplication.Dao.csprojResolveAssemblyReference.cache
+C:\Users\medee\Desktop\SCHOOL\YEAR 3\SEM 2\SD\LAB\LibraryApplication\BookApplication.Dal\obj\Debug\netcoreapp2.0\BookApplication.Dao.csproj.CoreCompileInputs.cache
+C:\Users\medee\Desktop\SCHOOL\YEAR 3\SEM 2\SD\LAB\LibraryApplication\BookApplication.Dal\obj\Debug\netcoreapp2.0\BookApplication.Dao.AssemblyInfoInputs.cache
+C:\Users\medee\Desktop\SCHOOL\YEAR 3\SEM 2\SD\LAB\LibraryApplication\BookApplication.Dal\obj\Debug\netcoreapp2.0\BookApplication.Dao.AssemblyInfo.cs
+C:\Users\medee\Desktop\SCHOOL\YEAR 3\SEM 2\SD\LAB\LibraryApplication\BookApplication.Dal\obj\Debug\netcoreapp2.0\BookApplication.Dao.dll
+C:\Users\medee\Desktop\SCHOOL\YEAR 3\SEM 2\SD\LAB\LibraryApplication\BookApplication.Dal\obj\Debug\netcoreapp2.0\BookApplication.Dao.pdb
+D:\teaching\Software design\All\UTCNSoftwareDesignLab\lab6\CSharp\LibraryApplication\BookApplication.Dal\bin\Debug\netcoreapp2.0\BookApplication.Dao.deps.json
+D:\teaching\Software design\All\UTCNSoftwareDesignLab\lab6\CSharp\LibraryApplication\BookApplication.Dal\bin\Debug\netcoreapp2.0\BookApplication.Dao.runtimeconfig.json
+D:\teaching\Software design\All\UTCNSoftwareDesignLab\lab6\CSharp\LibraryApplication\BookApplication.Dal\bin\Debug\netcoreapp2.0\BookApplication.Dao.runtimeconfig.dev.json
+D:\teaching\Software design\All\UTCNSoftwareDesignLab\lab6\CSharp\LibraryApplication\BookApplication.Dal\bin\Debug\netcoreapp2.0\BookApplication.Dao.dll
+D:\teaching\Software design\All\UTCNSoftwareDesignLab\lab6\CSharp\LibraryApplication\BookApplication.Dal\bin\Debug\netcoreapp2.0\BookApplication.Dao.pdb
+D:\teaching\Software design\All\UTCNSoftwareDesignLab\lab6\CSharp\LibraryApplication\BookApplication.Dal\obj\Debug\netcoreapp2.0\BookApplication.Dao.csprojResolveAssemblyReference.cache
+D:\teaching\Software design\All\UTCNSoftwareDesignLab\lab6\CSharp\LibraryApplication\BookApplication.Dal\obj\Debug\netcoreapp2.0\BookApplication.Dao.csproj.CoreCompileInputs.cache
+D:\teaching\Software design\All\UTCNSoftwareDesignLab\lab6\CSharp\LibraryApplication\BookApplication.Dal\obj\Debug\netcoreapp2.0\BookApplication.Dao.AssemblyInfoInputs.cache
+D:\teaching\Software design\All\UTCNSoftwareDesignLab\lab6\CSharp\LibraryApplication\BookApplication.Dal\obj\Debug\netcoreapp2.0\BookApplication.Dao.AssemblyInfo.cs
+D:\teaching\Software design\All\UTCNSoftwareDesignLab\lab6\CSharp\LibraryApplication\BookApplication.Dal\obj\Debug\netcoreapp2.0\BookApplication.Dao.dll
+D:\teaching\Software design\All\UTCNSoftwareDesignLab\lab6\CSharp\LibraryApplication\BookApplication.Dal\obj\Debug\netcoreapp2.0\BookApplication.Dao.pdb

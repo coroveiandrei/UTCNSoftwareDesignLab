@@ -1,0 +1,33 @@
+c:\users\medeea.constantinesc\documents\visual studio 2017\Projects\BookApplication\BookApplication.Models\bin\Debug\netcoreapp2.0\BookApplication.Models.deps.json
+c:\users\medeea.constantinesc\documents\visual studio 2017\Projects\BookApplication\BookApplication.Models\bin\Debug\netcoreapp2.0\BookApplication.Models.runtimeconfig.json
+c:\users\medeea.constantinesc\documents\visual studio 2017\Projects\BookApplication\BookApplication.Models\bin\Debug\netcoreapp2.0\BookApplication.Models.runtimeconfig.dev.json
+c:\users\medeea.constantinesc\documents\visual studio 2017\Projects\BookApplication\BookApplication.Models\bin\Debug\netcoreapp2.0\BookApplication.Models.dll
+c:\users\medeea.constantinesc\documents\visual studio 2017\Projects\BookApplication\BookApplication.Models\bin\Debug\netcoreapp2.0\BookApplication.Models.pdb
+c:\users\medeea.constantinesc\documents\visual studio 2017\Projects\BookApplication\BookApplication.Models\obj\Debug\netcoreapp2.0\BookApplication.Models.csprojResolveAssemblyReference.cache
+c:\users\medeea.constantinesc\documents\visual studio 2017\Projects\BookApplication\BookApplication.Models\obj\Debug\netcoreapp2.0\BookApplication.Models.csproj.CoreCompileInputs.cache
+c:\users\medeea.constantinesc\documents\visual studio 2017\Projects\BookApplication\BookApplication.Models\obj\Debug\netcoreapp2.0\BookApplication.Models.AssemblyInfoInputs.cache
+c:\users\medeea.constantinesc\documents\visual studio 2017\Projects\BookApplication\BookApplication.Models\obj\Debug\netcoreapp2.0\BookApplication.Models.AssemblyInfo.cs
+c:\users\medeea.constantinesc\documents\visual studio 2017\Projects\BookApplication\BookApplication.Models\obj\Debug\netcoreapp2.0\BookApplication.Models.dll
+c:\users\medeea.constantinesc\documents\visual studio 2017\Projects\BookApplication\BookApplication.Models\obj\Debug\netcoreapp2.0\BookApplication.Models.pdb
+C:\Users\medee\Desktop\SCHOOL\YEAR 3\SEM 2\SD\LAB\LibraryApplication\BookApplication.Models\bin\Debug\netcoreapp2.0\BookApplication.Models.deps.json
+C:\Users\medee\Desktop\SCHOOL\YEAR 3\SEM 2\SD\LAB\LibraryApplication\BookApplication.Models\bin\Debug\netcoreapp2.0\BookApplication.Models.runtimeconfig.json
+C:\Users\medee\Desktop\SCHOOL\YEAR 3\SEM 2\SD\LAB\LibraryApplication\BookApplication.Models\bin\Debug\netcoreapp2.0\BookApplication.Models.runtimeconfig.dev.json
+C:\Users\medee\Desktop\SCHOOL\YEAR 3\SEM 2\SD\LAB\LibraryApplication\BookApplication.Models\bin\Debug\netcoreapp2.0\BookApplication.Models.dll
+C:\Users\medee\Desktop\SCHOOL\YEAR 3\SEM 2\SD\LAB\LibraryApplication\BookApplication.Models\bin\Debug\netcoreapp2.0\BookApplication.Models.pdb
+C:\Users\medee\Desktop\SCHOOL\YEAR 3\SEM 2\SD\LAB\LibraryApplication\BookApplication.Models\obj\Debug\netcoreapp2.0\BookApplication.Models.csprojResolveAssemblyReference.cache
+C:\Users\medee\Desktop\SCHOOL\YEAR 3\SEM 2\SD\LAB\LibraryApplication\BookApplication.Models\obj\Debug\netcoreapp2.0\BookApplication.Models.csproj.CoreCompileInputs.cache
+C:\Users\medee\Desktop\SCHOOL\YEAR 3\SEM 2\SD\LAB\LibraryApplication\BookApplication.Models\obj\Debug\netcoreapp2.0\BookApplication.Models.AssemblyInfoInputs.cache
+C:\Users\medee\Desktop\SCHOOL\YEAR 3\SEM 2\SD\LAB\LibraryApplication\BookApplication.Models\obj\Debug\netcoreapp2.0\BookApplication.Models.AssemblyInfo.cs
+C:\Users\medee\Desktop\SCHOOL\YEAR 3\SEM 2\SD\LAB\LibraryApplication\BookApplication.Models\obj\Debug\netcoreapp2.0\BookApplication.Models.dll
+C:\Users\medee\Desktop\SCHOOL\YEAR 3\SEM 2\SD\LAB\LibraryApplication\BookApplication.Models\obj\Debug\netcoreapp2.0\BookApplication.Models.pdb
+D:\teaching\Software design\All\UTCNSoftwareDesignLab\lab6\CSharp\LibraryApplication\BookApplication.Models\bin\Debug\netcoreapp2.0\BookApplication.Models.deps.json
+D:\teaching\Software design\All\UTCNSoftwareDesignLab\lab6\CSharp\LibraryApplication\BookApplication.Models\bin\Debug\netcoreapp2.0\BookApplication.Models.runtimeconfig.json
+D:\teaching\Software design\All\UTCNSoftwareDesignLab\lab6\CSharp\LibraryApplication\BookApplication.Models\bin\Debug\netcoreapp2.0\BookApplication.Models.runtimeconfig.dev.json
+D:\teaching\Software design\All\UTCNSoftwareDesignLab\lab6\CSharp\LibraryApplication\BookApplication.Models\bin\Debug\netcoreapp2.0\BookApplication.Models.dll
+D:\teaching\Software design\All\UTCNSoftwareDesignLab\lab6\CSharp\LibraryApplication\BookApplication.Models\bin\Debug\netcoreapp2.0\BookApplication.Models.pdb
+D:\teaching\Software design\All\UTCNSoftwareDesignLab\lab6\CSharp\LibraryApplication\BookApplication.Models\obj\Debug\netcoreapp2.0\BookApplication.Models.csprojResolveAssemblyReference.cache
+D:\teaching\Software design\All\UTCNSoftwareDesignLab\lab6\CSharp\LibraryApplication\BookApplication.Models\obj\Debug\netcoreapp2.0\BookApplication.Models.csproj.CoreCompileInputs.cache
+D:\teaching\Software design\All\UTCNSoftwareDesignLab\lab6\CSharp\LibraryApplication\BookApplication.Models\obj\Debug\netcoreapp2.0\BookApplication.Models.AssemblyInfoInputs.cache
+D:\teaching\Software design\All\UTCNSoftwareDesignLab\lab6\CSharp\LibraryApplication\BookApplication.Models\obj\Debug\netcoreapp2.0\BookApplication.Models.AssemblyInfo.cs
+D:\teaching\Software design\All\UTCNSoftwareDesignLab\lab6\CSharp\LibraryApplication\BookApplication.Models\obj\Debug\netcoreapp2.0\BookApplication.Models.dll
+D:\teaching\Software design\All\UTCNSoftwareDesignLab\lab6\CSharp\LibraryApplication\BookApplication.Models\obj\Debug\netcoreapp2.0\BookApplication.Models.pdb
