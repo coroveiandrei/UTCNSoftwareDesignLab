@@ -4,6 +4,9 @@
 - [Lab Schedule]
 (https://github.com/SoftwareDesign2017/SoftwareDesign2017/blob/master/Resources/Schedule_2017.pdf)
 
+- [Project Documents]
+(https://github.com/coroveiandrei/UTCNSoftwareDesignLab/tree/master/Project)
+
 # C# 
 -  C# fundamentals recap
 (https://app.pluralsight.com/library/courses/object-oriented-programming-fundamentals-csharp/table-of-contents)
