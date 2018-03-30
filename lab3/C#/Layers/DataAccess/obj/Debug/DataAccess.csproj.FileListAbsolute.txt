@@ -1,0 +1,9 @@
+D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\DataAccess\bin\Debug\DataAccess.dll
+D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\DataAccess\bin\Debug\DataAccess.pdb
+D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\DataAccess\bin\Debug\DataAccess.Model.dll
+D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\DataAccess\bin\Debug\DataAccess.Model.pdb
+D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\DataAccess\obj\Debug\DataAccess.dll
+D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\DataAccess\obj\Debug\DataAccess.pdb

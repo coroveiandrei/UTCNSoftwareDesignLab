@@ -1,0 +1,13 @@
+D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\BusinessLogic\bin\Debug\BusinessLogic.Model.dll
+D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\BusinessLogic\bin\Debug\DataAccess.dll
+D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\BusinessLogic\bin\Debug\DataAccess.Model.dll
+D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\BusinessLogic\bin\Debug\BusinessLogic.Model.pdb
+D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\BusinessLogic\bin\Debug\DataAccess.Model.pdb
+D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\BusinessLogic\obj\Debug\BusinessLogic.pdb
