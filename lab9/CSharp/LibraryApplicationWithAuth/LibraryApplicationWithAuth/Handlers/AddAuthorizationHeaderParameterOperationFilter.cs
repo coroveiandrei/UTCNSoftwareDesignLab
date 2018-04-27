@@ -19,7 +19,7 @@ namespace LibraryApplicationWithAuth.Handlers
             {
                 name = "Authorization",
                 @in = "header",
-                description = "andrei,password",
+                description = "admin,admin or student,student or both,both [user,password]",
                 required = false,
                 type = "string"
             });

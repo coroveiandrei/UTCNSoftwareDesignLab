@@ -51,15 +51,25 @@
     <Compile Include="Class1.cs" />
     <Compile Include="IRepositories\IUserRepository.cs" />
     <Compile Include="IRepositories\IBookRepository.cs" />
+    <Compile Include="Migrations\201804271555410_Initial.cs" />
+    <Compile Include="Migrations\201804271555410_Initial.Designer.cs">
+      <DependentUpon>201804271555410_Initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Book.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repositories\BookRepository - Copy.cs" />
+    <Compile Include="Repositories\UserRepository.cs" />
     <Compile Include="Repositories\BookRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201804271555410_Initial.resx">
+      <DependentUpon>201804271555410_Initial.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

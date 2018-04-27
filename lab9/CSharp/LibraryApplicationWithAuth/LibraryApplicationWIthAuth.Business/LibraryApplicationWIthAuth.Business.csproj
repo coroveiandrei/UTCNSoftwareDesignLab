@@ -47,7 +47,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="IServices\IBookService.cs" />
     <Compile Include="IServices\ICredentialCheckerService.cs" />
     <Compile Include="Mappers\BookMapper.cs" />
