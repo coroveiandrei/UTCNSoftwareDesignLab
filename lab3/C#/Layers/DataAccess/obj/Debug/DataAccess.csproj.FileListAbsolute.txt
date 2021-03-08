@@ -7,3 +7,12 @@ D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\DataAccess\o
 D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
 D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\DataAccess\obj\Debug\DataAccess.dll
 D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\DataAccess\obj\Debug\DataAccess.pdb
+G:\My Drive\trainings\Software design\All\UTCNSoftwareDesignLab\lab3\C#\Layers\DataAccess\bin\Debug\DataAccess.dll
+G:\My Drive\trainings\Software design\All\UTCNSoftwareDesignLab\lab3\C#\Layers\DataAccess\bin\Debug\DataAccess.pdb
+G:\My Drive\trainings\Software design\All\UTCNSoftwareDesignLab\lab3\C#\Layers\DataAccess\bin\Debug\DataAccess.Model.dll
+G:\My Drive\trainings\Software design\All\UTCNSoftwareDesignLab\lab3\C#\Layers\DataAccess\bin\Debug\DataAccess.Model.pdb
+G:\My Drive\trainings\Software design\All\UTCNSoftwareDesignLab\lab3\C#\Layers\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+G:\My Drive\trainings\Software design\All\UTCNSoftwareDesignLab\lab3\C#\Layers\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+G:\My Drive\trainings\Software design\All\UTCNSoftwareDesignLab\lab3\C#\Layers\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+G:\My Drive\trainings\Software design\All\UTCNSoftwareDesignLab\lab3\C#\Layers\DataAccess\obj\Debug\DataAccess.dll
+G:\My Drive\trainings\Software design\All\UTCNSoftwareDesignLab\lab3\C#\Layers\DataAccess\obj\Debug\DataAccess.pdb
