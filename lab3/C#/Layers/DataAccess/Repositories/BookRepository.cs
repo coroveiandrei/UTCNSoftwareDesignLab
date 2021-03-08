@@ -10,7 +10,7 @@ namespace DataAccess.Repositories
     public class BookRepository: IBookRepository
     {
         private readonly IList<BookDto> inMemoryBooks = new List<BookDto>();
-        private string connectionString = "Data source=.; Initial Catalog =hw1; Trusted_Connection=Yes;";
+        private string connectionString = "Data source=.\\SQLEXPRESS; Initial Catalog =hw1; Trusted_Connection=Yes;";
         private SqlConnection sqlConnection;
         public BookRepository()
         {

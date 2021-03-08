@@ -4,9 +4,3 @@ D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\BusinessLogi
 D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\BusinessLogic.Model\obj\Debug\BusinessLogic.Model.csproj.CoreCompileInputs.cache
 D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\BusinessLogic.Model\obj\Debug\BusinessLogic.Model.dll
 D:\teaching\Software design\lab3ClassCode\C#\lab3ClassCodeC-\Layers\BusinessLogic.Model\obj\Debug\BusinessLogic.Model.pdb
-G:\My Drive\trainings\Software design\All\UTCNSoftwareDesignLab\lab3\C#\Layers\BusinessLogic.Model\bin\Debug\BusinessLogic.Model.dll
-G:\My Drive\trainings\Software design\All\UTCNSoftwareDesignLab\lab3\C#\Layers\BusinessLogic.Model\bin\Debug\BusinessLogic.Model.pdb
-G:\My Drive\trainings\Software design\All\UTCNSoftwareDesignLab\lab3\C#\Layers\BusinessLogic.Model\obj\Debug\BusinessLogic.Model.csprojAssemblyReference.cache
-G:\My Drive\trainings\Software design\All\UTCNSoftwareDesignLab\lab3\C#\Layers\BusinessLogic.Model\obj\Debug\BusinessLogic.Model.csproj.CoreCompileInputs.cache
-G:\My Drive\trainings\Software design\All\UTCNSoftwareDesignLab\lab3\C#\Layers\BusinessLogic.Model\obj\Debug\BusinessLogic.Model.dll
-G:\My Drive\trainings\Software design\All\UTCNSoftwareDesignLab\lab3\C#\Layers\BusinessLogic.Model\obj\Debug\BusinessLogic.Model.pdb
