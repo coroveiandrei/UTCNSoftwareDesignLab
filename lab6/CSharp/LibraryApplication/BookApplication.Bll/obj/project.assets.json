@@ -2076,7 +2076,6 @@
           "AutoMapper": "6.2.2",
           "Microsoft.EntityFrameworkCore": "2.0.2",
           "Microsoft.EntityFrameworkCore.Relational": "2.0.2",
-          "Microsoft.NETCore.App": "2.0.0",
           "Swashbuckle.AspNetCore": "2.3.0"
         },
         "compile": {
@@ -2091,7 +2090,6 @@
         "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
           "AutoMapper": "6.2.2",
-          "Microsoft.NETCore.App": "2.0.0",
           "Swashbuckle.AspNetCore": "2.3.0"
         },
         "compile": {
@@ -6657,21 +6655,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\andrei.corovei\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\andrei.corovei\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\teaching\\Software design\\All\\UTCNSoftwareDesignLab\\lab6\\CSharp\\LibraryApplication\\BookApplication.Bll\\BookApplication.Bll.csproj",
+      "projectUniqueName": "G:\\My Drive\\trainings\\Software design\\All\\UTCNSoftwareDesignLab\\lab6\\CSharp\\LibraryApplication\\BookApplication.Bll\\BookApplication.Bll.csproj",
       "projectName": "BookApplication.Bll",
-      "projectPath": "D:\\teaching\\Software design\\All\\UTCNSoftwareDesignLab\\lab6\\CSharp\\LibraryApplication\\BookApplication.Bll\\BookApplication.Bll.csproj",
+      "projectPath": "G:\\My Drive\\trainings\\Software design\\All\\UTCNSoftwareDesignLab\\lab6\\CSharp\\LibraryApplication\\BookApplication.Bll\\BookApplication.Bll.csproj",
       "packagesPath": "C:\\Users\\andrei.corovei\\.nuget\\packages\\",
-      "outputPath": "D:\\teaching\\Software design\\All\\UTCNSoftwareDesignLab\\lab6\\CSharp\\LibraryApplication\\BookApplication.Bll\\obj\\",
+      "outputPath": "G:\\My Drive\\trainings\\Software design\\All\\UTCNSoftwareDesignLab\\lab6\\CSharp\\LibraryApplication\\BookApplication.Bll\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\andrei.corovei\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -6685,12 +6679,13 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
           "projectReferences": {
-            "D:\\teaching\\Software design\\All\\UTCNSoftwareDesignLab\\lab6\\CSharp\\LibraryApplication\\BookApplication.Dal\\BookApplication.Dao.csproj": {
-              "projectPath": "D:\\teaching\\Software design\\All\\UTCNSoftwareDesignLab\\lab6\\CSharp\\LibraryApplication\\BookApplication.Dal\\BookApplication.Dao.csproj"
+            "G:\\My Drive\\trainings\\Software design\\All\\UTCNSoftwareDesignLab\\lab6\\CSharp\\LibraryApplication\\BookApplication.Dal\\BookApplication.Dao.csproj": {
+              "projectPath": "G:\\My Drive\\trainings\\Software design\\All\\UTCNSoftwareDesignLab\\lab6\\CSharp\\LibraryApplication\\BookApplication.Dal\\BookApplication.Dao.csproj"
             },
-            "D:\\teaching\\Software design\\All\\UTCNSoftwareDesignLab\\lab6\\CSharp\\LibraryApplication\\BookApplication.Models\\BookApplication.Models.csproj": {
-              "projectPath": "D:\\teaching\\Software design\\All\\UTCNSoftwareDesignLab\\lab6\\CSharp\\LibraryApplication\\BookApplication.Models\\BookApplication.Models.csproj"
+            "G:\\My Drive\\trainings\\Software design\\All\\UTCNSoftwareDesignLab\\lab6\\CSharp\\LibraryApplication\\BookApplication.Models\\BookApplication.Models.csproj": {
+              "projectPath": "G:\\My Drive\\trainings\\Software design\\All\\UTCNSoftwareDesignLab\\lab6\\CSharp\\LibraryApplication\\BookApplication.Models\\BookApplication.Models.csproj"
             }
           }
         }
@@ -6703,12 +6698,14 @@
     },
     "frameworks": {
       "netcoreapp2.0": {
+        "targetAlias": "netcoreapp2.0",
         "dependencies": {
           "AutoMapper": {
             "target": "Package",
             "version": "[6.2.2, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true
@@ -6719,10 +6716,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

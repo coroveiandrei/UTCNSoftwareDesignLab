@@ -7,23 +7,44 @@ using System.Text;
 using AutoMapper;
 using BookApplication.Bll.Mappers;
 using System.Linq;
+using BookApplication.Models;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace BookApplication.Bll.Services
 {
     public class BookService : IBookService
     {
         private readonly IBookRepository _iBookRepository;
+        private readonly IConfiguration _configuration;
 
-        public BookService(IBookRepository iBookRepository)
+        public BookService(IBookRepository iBookRepository, IConfiguration configuration)
         {
             _iBookRepository = iBookRepository;
+            _configuration = configuration;
         }
 
+
+        // If edit book is not correct then you cannot call delete
         public void AddBook(BookModel bookModel)
         {
             var book = bookModel.ToBook();
-            _iBookRepository.Add(book);
-            _iBookRepository.SaveChanges();
+            // example of magic string / magic int
+            int numberOfBooksAddedToday = 100; // get value from repository
+            //iBookRepository.GetBooksAddedToday(); // 100
+
+            if (ValidConditionForAddingBooks(numberOfBooksAddedToday))
+            {
+                _iBookRepository.Add(book);
+                _iBookRepository.SaveChanges();
+            }
+        }
+
+        private bool ValidConditionForAddingBooks(int numberOfBooksAddedToday)
+        {
+            //return numberOfBooksAddedToday < Constants.MAXNUMBEROFBOOKSPERDAY;
+            return numberOfBooksAddedToday < Int32.Parse(_configuration.GetSection("MaxNumberOfBooks").Value);
+            //return numberOfBooksAddedToday < _configuration.GetSection("General").Value;
         }
 
         public void DeleteBook(BookModel bookModel)
