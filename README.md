@@ -2,25 +2,13 @@
 # Useful Links:
 
 - [Lab Schedule]
-(https://github.com/SoftwareDesign2017/SoftwareDesign2017/blob/master/Resources/Schedule_2017.pdf)
+(https://github.com/SoftwareDesign2017/SoftwareDesign2017/blob/master/Resources/Schedule_2022.pdf)
 
 - [Project Documents]
 (https://github.com/coroveiandrei/UTCNSoftwareDesignLab/tree/master/Project)
 Deadline: week 13
 
 - [Assignments]
-
-* Assignment 1(https://github.com/coroveiandrei/UTCNSoftwareDesignLab/blob/master/lab3/Assignment1_2018.pdf)
-
-* Assignment 2(https://github.com/coroveiandrei/UTCNSoftwareDesignLab/blob/master/lab6/Assignment2_2018.pdf)
-
-* Assignment 3(https://github.com/coroveiandrei/UTCNSoftwareDesignLab/blob/master/lab9/Assignment3_2018.pdf)
-Deadline: week 11
-
-* Template For Documentation (https://github.com/coroveiandrei/UTCNSoftwareDesignLab/blob/master/lab3/Assignment_Analysis_and_Design_Document.docx)
-
-- [Final feedback form]
-(https://www.surveymonkey.com/r/M2LMVLD)
 
 # C# 
 -  C# fundamentals recap
