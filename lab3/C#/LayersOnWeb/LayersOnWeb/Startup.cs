@@ -1,13 +1,18 @@
 using BusinessLayer;
+using BusinessLayer.Contracts;
 using DataAccess;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.SpaServices.AngularCli;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using System;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace LayersOnWeb
 {
@@ -33,12 +38,17 @@ namespace LayersOnWeb
             services.AddSwaggerGen();
             services.AddScoped<IWeatherForecastService, WeatherForecastService>();
             services.AddScoped<IWeatherForecastRepository, WeatherForecastRepository>();
+            services.AddTransient<IUserService, UserService>();
             services.AddDbContext<WeatherDbContext>(options => options.UseSqlServer(@"Server=.;Database=dbweather;Trusted_Connection=True;"));
+            services.AddIdentity<IdentityUser, IdentityRole>()
+                  .AddEntityFrameworkStores<WeatherDbContext>()
+                  .AddDefaultTokenProviders();
 
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, IServiceProvider serviceProvider)
         {
             
             if (env.IsDevelopment())
@@ -57,12 +67,12 @@ namespace LayersOnWeb
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
-            //if (!env.IsDevelopment())
-            //{
-            //    app.UseSpaStaticFiles();
-            //}
-
+            
             app.UseRouting();
+
+            app.UseAuthentication();
+            app.UseAuthorization();
+
 
             app.UseEndpoints(endpoints =>
             {
@@ -76,18 +86,42 @@ namespace LayersOnWeb
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
             });
 
-            //app.UseSpa(spa =>
-            //{
-            //    // To learn more about options for serving an Angular SPA from ASP.NET Core,
-            //    // see https://go.microsoft.com/fwlink/?linkid=864501
+            
+            CreateUserRoles(serviceProvider).Wait();
+            CreateStartupUsers(serviceProvider);
+        }
 
-            //    spa.Options.SourcePath = "ClientApp";
+        private async Task CreateUserRoles(IServiceProvider serviceProvider)
+        {
+            var RoleManager = serviceProvider.GetRequiredService<RoleManager<IdentityRole>>();
 
-            //    if (env.IsDevelopment())
-            //    {
-            //        spa.UseAngularCliServer(npmScript: "start");
-            //    }
-            //});
+            //Adding Admin Role
+            var roleCheck = await RoleManager.RoleExistsAsync("Admin");
+            if (!roleCheck)
+            {
+                //create the roles and seed them to the database
+                await RoleManager.CreateAsync(new IdentityRole("Admin"));
+            }
+
+            roleCheck = await RoleManager.RoleExistsAsync("User");
+            if (!roleCheck)
+            {
+                //create the roles and seed them to the database
+                await RoleManager.CreateAsync(new IdentityRole("User"));
+            }
+        }
+
+        private void CreateStartupUsers(IServiceProvider serviceProvider)
+        {
+            var userMgr = serviceProvider.GetRequiredService<UserManager<IdentityUser>>();
+            var users = userMgr.Users;
+            if (!users.Any(x=> x.UserName == "admin@webdotnet.com"))
+            {
+                var user = new IdentityUser { UserName = "admin@webdotnet.com" };
+                userMgr.CreateAsync(user,  "P@ssw0rd").Wait();
+                var registeredUser = userMgr.FindByNameAsync(user.UserName).Result;
+                userMgr.AddToRoleAsync(registeredUser, "admin").Wait();
+            }
         }
     }
 }

@@ -21,6 +21,7 @@ namespace LayersOnWeb.Controllers
 
 
         [HttpGet]
+        [Authorize]
         public IEnumerable<WeatherForecast> Get()
         {
             var result = new List<WeatherForecast>();
@@ -33,6 +34,8 @@ namespace LayersOnWeb.Controllers
 
 
         [HttpPost]
+        [Authorize(Roles = "Admin")]
+        //[Auth]
         public void Post(WeatherForecast weather)
         {
             weatherService.AddWeatherForecastModel(new WeatherForecastModel { Date = weather.Date, Summary = weather.Summary, TemperatureC = weather.TemperatureC } );
