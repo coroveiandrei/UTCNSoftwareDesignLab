@@ -35,14 +35,14 @@ namespace LayersOnWeb.Controllers
         }
 
         [HttpPost("Logout")]
-        [AllowAnonymous]
+        [Authorize]
         public async void Logout()
         {
             await _signInManager.SignOutAsync();
         }
 
         [HttpPost("Register")]
-        [AllowAnonymous]
+        [Authorize(Roles="admin")]
         public async Task<UserModel> Register([FromBody] RegisterUserModel user)
         {
 
@@ -51,7 +51,7 @@ namespace LayersOnWeb.Controllers
         }
 
         [HttpGet("Users")]
-        [AllowAnonymous]
+        [Authorize(Roles = "admin")]
         public async Task<List<UserModel>> GetUsers()
         {
             var result = await _userService.GetUsers();
@@ -59,7 +59,7 @@ namespace LayersOnWeb.Controllers
         }
 
         [HttpPost("CreateRole")]
-        [AllowAnonymous]
+        [Authorize(Roles = "admin")]
         public async Task<bool> CreateRole([FromBody] RoleModel roleModel)
         {
             var newRole = new IdentityRole(roleModel.RoleName);
@@ -69,7 +69,7 @@ namespace LayersOnWeb.Controllers
         }
 
         [HttpGet("Roles")]
-        [AllowAnonymous]
+        [Authorize]
         public async Task<List<RoleModel>> GetRoles()
         {
             var rolesList = new List<RoleModel>();

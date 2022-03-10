@@ -10,7 +10,6 @@ namespace BusinessLayer.Contracts
     public interface IUserService
     {
         Task<UserModel> Register(RegisterUserModel user);
-
         Task<UserModel> Login(LoginUserModel user);
         Task<List<UserModel>> GetUsers();
         bool ExistsUser(Guid id);
