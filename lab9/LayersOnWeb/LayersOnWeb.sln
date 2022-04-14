@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LayersOnWeb", "LayersOnWeb\LayersOnWeb.csproj", "{13B72C25-9470-4C2B-928C-B320AC21C165}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{71ABA9C9-9D0B-4791-9F64-62615DDD063A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{0EDFA073-2723-4EA8-B4E0-D15BAA6CDD84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13B72C25-9470-4C2B-928C-B320AC21C165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B72C25-9470-4C2B-928C-B320AC21C165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B72C25-9470-4C2B-928C-B320AC21C165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B72C25-9470-4C2B-928C-B320AC21C165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71ABA9C9-9D0B-4791-9F64-62615DDD063A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71ABA9C9-9D0B-4791-9F64-62615DDD063A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71ABA9C9-9D0B-4791-9F64-62615DDD063A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71ABA9C9-9D0B-4791-9F64-62615DDD063A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EDFA073-2723-4EA8-B4E0-D15BAA6CDD84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EDFA073-2723-4EA8-B4E0-D15BAA6CDD84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EDFA073-2723-4EA8-B4E0-D15BAA6CDD84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EDFA073-2723-4EA8-B4E0-D15BAA6CDD84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E8F7932-FBAD-4555-BCB0-32886B336AC2}
+	EndGlobalSection
+EndGlobal
